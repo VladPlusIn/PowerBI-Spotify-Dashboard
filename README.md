@@ -1,4 +1,4 @@
-# Spotify Data Dashboard
+# Spotify Dashboard
 # Overview
 This dashboard provides a comprehensive view of Spotify track data from 2018 to 2023. It is designed to help users analyze and gain insights into the performance and characteristics of various tracks and artists on the Spotify platform.
 
